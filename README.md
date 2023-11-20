@@ -41,9 +41,8 @@ In addition to installation from pip and conda sources, I have provided a conda 
 1. Download compressed package from onedrive
 
 ```
-conda env create -f environment_cu118.yaml
+https://connecthkuhk-my.sharepoint.com/:u:/g/personal/huangym2_connect_hku_hk/EQSnmFcSxp9Iq5yOTs5z53UBVULNvaFH_N3uELSaZloObA?e=vxEhCA
 ```
-
 2. Find the conda environment directory
 
 ```
@@ -59,7 +58,7 @@ cd /path/to/file/envs/
 3. Unzip the environment compressed package
 
 ```
-unzip xxx
+unzip ISNet.tar.gz
 ```
 
 ## Contact
